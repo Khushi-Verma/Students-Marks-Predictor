@@ -1,4 +1,3 @@
 # StudentMarksPredictor
 Student Marks Predictor is machine learning model which is based on business problem.
-Here students can predict their marks acoording to their study hour to achive good marks .
-
+here students can predict their marks according to their study hour to achive good marks , We use linear regression algorithum to solve this business problem.
