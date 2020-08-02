@@ -5,8 +5,8 @@ we have two parameters study_hours and student_marks where student_marks is base
 we use scatter graph to visualize data.
 
 by the visualization of scatter grapgh be pedict that data is in linear state
-#Libraries used 
-Numpy
-Pandas
-Matplotlib
+#Libraries used.. 
+Numpy,
+Pandas,
+Matplotlib,
 Joblib
